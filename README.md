@@ -1,4 +1,4 @@
 
-## Revisão de ReactJS aplicando Redux 
+## Redux Review 
 
-Criando um simples sistema de reservas para fixar conhecimento.
+Reviewing redux using React hooks build a simple application.
